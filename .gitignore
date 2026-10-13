@@ -8,3 +8,4 @@
 # /gate/ = 課程閘道登入版（名單由閘道管理頁維護）。與上面的舊版並存，兩個網址各自獨立。
 !gate/
 !gate/index.html
+!gate/apply-key.html
