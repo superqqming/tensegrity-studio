@@ -9,3 +9,8 @@
 !gate/
 !gate/index.html
 !gate/apply-key.html
+
+# /led/ = LED 版（外觀發光模擬）。和 /gate/ 同一份原始碼、同一個工具代碼，只是網址不同，名單一樣由閘道管理。
+!led/
+!led/index.html
+!led/apply-key.html
